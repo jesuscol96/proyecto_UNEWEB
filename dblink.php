@@ -23,16 +23,6 @@ else
 
 
 
-//n260m_22843432_sitio_academico
-
-/*
-
-$server="sql212.260mb.net";
-$user="n260m_22843432";
-$password="colmeweb";
-$dbfile="database.txt";
-
-*/
 
 
 
